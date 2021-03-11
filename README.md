@@ -1,4 +1,4 @@
-# AI_Class
+# AI_Class(AI 및 데이터 분석의 기초)
 
 ## Week 1~3
 Python Study
