@@ -1,7 +1,7 @@
 # AI_Class
 
-## Week 1~4
+## Week 1~3
 Python Study
 
-## Week 5~6
+## Week 4~6
 Using numpy, tensorflow(keras), pandas, sklearn, matplotlib
